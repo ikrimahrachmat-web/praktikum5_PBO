@@ -1,0 +1,2 @@
+[12-09-2026] - Hari ini belajar konsep I/O dan Persistensi Data di Java.
+[13-09-2026] - Program catatan harian berhasil dijalankan tanpa error!
